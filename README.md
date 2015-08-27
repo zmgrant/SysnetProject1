@@ -6,5 +6,7 @@ Authors: Clark Mitchell
 Class: Systems and Networks I
 
 make
+
 ./SysnetProject1
+
 make clean
