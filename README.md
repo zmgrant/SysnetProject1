@@ -1,12 +1,10 @@
 SysnetProject1
 
 Authors: Clark Mitchell
-         Zach 
+         Zachary Grant
          
 Class: Systems and Networks I
 
 make
-
 ./SysnetProject1
-
 make clean
