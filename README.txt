@@ -1,4 +1,4 @@
-SysnetProject1
+Sysnet Project 1
 
 Authors: Clark Mitchell
          Zachary Grant
@@ -6,5 +6,5 @@ Authors: Clark Mitchell
 Class: Systems and Networks I
 
 make
-./SysnetProject1
+./myshell
 make clean

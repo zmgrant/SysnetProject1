@@ -1,9 +1,10 @@
 #include "main.h"
 #include <stdio.h>
+#include <unistd.h>
 
 int main( int argc, char **argv )
 {
-    printf( "Hello World from SysnetProject1 !\n" );
+  execlp("ls", "ls", "-l", (char *)0);
 
     return 0;
 }

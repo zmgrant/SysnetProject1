@@ -1,4 +1,4 @@
-TARGET    = SysnetProject1
+TARGET    = myshell
 MAIN_SRCS = $(wildcard src/*.c) $(wildcard src/*/*.c)
 MAIN_OBJS = $(MAIN_SRCS:.c=.o)
 
