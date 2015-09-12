@@ -1,0 +1,12 @@
+main
+
+while not "exit"
+      prompt
+      parse
+      check if legal program
+
+      if background
+         exec (as background process)
+      else if foreground
+         exec (as foreground)
+        
